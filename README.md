@@ -1,4 +1,4 @@
-# GoodAI (Lumen)
+# GoodAI 
 
 A Duolingo-style app for learning AI/ML, built for ages 10 to 40, one general curriculum, no "kiddie mode."
 
