@@ -1,10 +1,19 @@
-# GoodAI
+# GoodAI (Lumen)
 
----
+A Duolingo-style app for learning AI/ML — built for ages 10 to 40, one general curriculum, no "kiddie mode."
 
-<center> 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/785557fc-596f-4744-90f8-03fabf4e66b9" />
+🔗 **Live demo:** https://goodai.bolt.host/
 
-## Scan on your ios or expo app in android
+## What it does
 
-</center>
+Lumen teaches AI/ML concepts through short, gamified lessons rather than long-form courses — streaks, friends, and leaderboards to keep you coming back, with a "never feel behind" design so missing a day doesn't tank your motivation. The curriculum draws on what already works across Duolingo, Scratch, CodeMonkey, DataCamp, SoloLearn, Kaggle Learn, Brilliant, Programming Hub, and Codedex, rather than reinventing lesson design from scratch.
+
+Deliberately not styled as a kids' app — a calm, violet color theme instead of a bright game aesthetic, since the same curriculum is meant to work for a 10-year-old and a 40-year-old without feeling like it's talking down to either.
+
+## Access
+
+Direct self-signup with a 13+ age affirmation — no parent/child account split in this version.
+
+## Status
+
+Built and deployed as a Bolt project; the live app is the source of truth. This repository tracks the project on GitHub as a reference point — see the demo link above for the actual product.
