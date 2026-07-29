@@ -2,7 +2,7 @@
 
 A Duolingo-style app for learning AI/ML, built for ages 10 to 40, one general curriculum, no "kiddie mode."
 
-🔗 **Live demo:** https://goodai.bolt.host/
+🔗 **Live demo:** https://good-ai.bolt.host
 
 ## What it does
 
